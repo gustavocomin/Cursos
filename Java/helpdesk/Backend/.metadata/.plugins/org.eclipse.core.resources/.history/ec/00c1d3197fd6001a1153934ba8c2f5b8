@@ -1,0 +1,10 @@
+package com.gustavoc.helpdesk.api.security.jwt;
+
+import org.springframework.security.core.userdetails.UserDetails;
+
+public class JwtUser implements UserDetails {
+
+	
+	
+	
+}

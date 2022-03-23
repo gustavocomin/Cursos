@@ -1,0 +1,27 @@
+package com.gustavoc.helpdesk.api.entity;
+
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Size;
+
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.index.Indexed;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+import com.sun.istack.internal.NotNull;
+
+@Document
+public class User {
+	
+	@Id
+	private String id;
+	
+	@Indexed(unique = true)
+	@NotNull	
+	private String email;
+	
+	@NotBlank
+	@Size
+	private String password;
+	//private Enum   profile;
+
+}

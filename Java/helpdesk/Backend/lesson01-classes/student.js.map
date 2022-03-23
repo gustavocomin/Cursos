@@ -1,0 +1,1 @@
+{"version":3,"file":"student.js","sourceRoot":"","sources":["student.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA,mCAAkC;AAClC;IAA6B,2BAAM;IAEjC,iBAAY,IAAY;eACtB,kBAAM,IAAI,CAAC;IACb,CAAC;IAEM,yBAAO,GAAd,UAAe,GAAW;QACzB,OAAO,CAAC,GAAG,CAAC,aAAa,CAAC,CAAC;QAC3B,iBAAM,OAAO,YAAC,EAAE,CAAC,CAAC;IACnB,CAAC;IAEH,cAAC;AAAD,CAAC,AAXD,CAA6B,eAAM,GAWlC;AAXY,0BAAO"}

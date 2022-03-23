@@ -1,0 +1,13 @@
+package com.gustavoc.helpdesk.api.enums;
+
+public enum StatusEnum {
+	
+	New,
+	Assigned,
+	Resolved,
+	Approved,
+	Disaproved,
+	Closed
+	
+
+}

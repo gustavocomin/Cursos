@@ -1,0 +1,9 @@
+package com.gustavoc.helpdesk.api.enums;
+
+public class PriorityEnum {
+	
+	High,
+	Normal,
+	Low
+
+}

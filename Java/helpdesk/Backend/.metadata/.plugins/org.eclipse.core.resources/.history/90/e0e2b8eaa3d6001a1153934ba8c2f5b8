@@ -1,0 +1,5 @@
+package com.gustavoc.helpdesk.api.security.service;
+
+public class JwtUserDetailServiceImpl {
+
+}

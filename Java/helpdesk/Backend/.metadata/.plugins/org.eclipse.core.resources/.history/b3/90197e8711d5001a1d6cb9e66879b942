@@ -1,0 +1,26 @@
+package com.gustavoc.helpdesk.api.entity;
+
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Size;
+
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.index.Indexed;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+
+@Document
+public class User {
+	
+	@Id
+	private String id;
+	
+	@Indexed(unique = true)
+	@NotBlank(message = "Email is required")	
+	private String email;
+	
+	@NotBlank(message = "Password is required")
+	@Size
+	private String password;
+	//private Enum   profile;
+
+}

@@ -1,0 +1,27 @@
+package com.gustavoc.helpdesk.api.entity;
+
+import java.util.Date;
+
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.DBRef;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+import com.gustavoc.helpdesk.api.enums.StatusEnum;
+
+@Document
+public class ChangeStatus {
+	
+	@Id
+	private String id;
+	
+	@DBRef
+	private Ticket ticket;
+	
+	@DBRef
+	private User userChange;
+	
+	private Date dateChangeStatus;
+	
+	private StatusEnum status; 
+
+}

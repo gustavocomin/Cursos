@@ -1,0 +1,5 @@
+spring.data.mongodb.host=localhost
+
+jwt.secret=helpDesk_gusta
+# expiration 7 days
+jwt.expiration=604800
