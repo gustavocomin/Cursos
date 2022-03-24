@@ -1,0 +1,17 @@
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\bin\Debug\net6.0\Cursos.Application.deps.json
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\bin\Debug\net6.0\Cursos.Application.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\bin\Debug\net6.0\Cursos.Application.pdb
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\bin\Debug\net6.0\Cursos.Domain.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\bin\Debug\net6.0\Cursos.Infrastructure.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\bin\Debug\net6.0\Cursos.Domain.pdb
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\bin\Debug\net6.0\Cursos.Infrastructure.pdb
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\obj\Debug\net6.0\Cursos.Application.csproj.AssemblyReference.cache
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\obj\Debug\net6.0\Cursos.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\obj\Debug\net6.0\Cursos.Application.AssemblyInfoInputs.cache
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\obj\Debug\net6.0\Cursos.Application.AssemblyInfo.cs
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\obj\Debug\net6.0\Cursos.Application.csproj.CoreCompileInputs.cache
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\obj\Debug\net6.0\Cursos.Application.csproj.CopyComplete
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\obj\Debug\net6.0\Cursos.Application.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\obj\Debug\net6.0\refint\Cursos.Application.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\obj\Debug\net6.0\Cursos.Application.pdb
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Application\obj\Debug\net6.0\ref\Cursos.Application.dll

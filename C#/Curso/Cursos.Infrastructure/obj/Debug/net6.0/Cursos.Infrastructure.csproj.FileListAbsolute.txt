@@ -1,0 +1,15 @@
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Infrastructure\bin\Debug\net6.0\Cursos.Infrastructure.deps.json
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Infrastructure\bin\Debug\net6.0\Cursos.Infrastructure.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Infrastructure\bin\Debug\net6.0\Cursos.Infrastructure.pdb
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Infrastructure\bin\Debug\net6.0\Cursos.Domain.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Infrastructure\bin\Debug\net6.0\Cursos.Domain.pdb
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Infrastructure\obj\Debug\net6.0\Cursos.Infrastructure.csproj.AssemblyReference.cache
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Infrastructure\obj\Debug\net6.0\Cursos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Infrastructure\obj\Debug\net6.0\Cursos.Infrastructure.AssemblyInfoInputs.cache
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Infrastructure\obj\Debug\net6.0\Cursos.Infrastructure.AssemblyInfo.cs
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Infrastructure\obj\Debug\net6.0\Cursos.Infrastructure.csproj.CoreCompileInputs.cache
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Infrastructure\obj\Debug\net6.0\Cursos.Infrastructure.csproj.CopyComplete
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Infrastructure\obj\Debug\net6.0\Cursos.Infrastructure.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Infrastructure\obj\Debug\net6.0\refint\Cursos.Infrastructure.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Infrastructure\obj\Debug\net6.0\Cursos.Infrastructure.pdb
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Infrastructure\obj\Debug\net6.0\ref\Cursos.Infrastructure.dll

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cursos.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Cursos.Api.Controllers.Courses.CourseController.Post(Cursos.Domain.Courses.Dtos.CourseDto)">
+            <summary>
+            Este serviço permite cadastrar um curso para um usuário autenticado.
+            </summary>
+            <returns>Retorna status 201 e dados do curso do usuário</returns>
+        </member>
+        <member name="M:Cursos.Api.Controllers.Courses.CourseController.Get">
+            <summary>
+            Este serviço permite obter todos os cursos ativod de um usuário.
+            </summary>
+            <returns>Retorna status ok e dados do curso do usuário</returns>
+        </member>
+        <member name="T:Cursos.Api.Controllers.Users.UserController">
+            <summary>
+            Controller responsável pelo cadastro e autenticação de usuários
+            </summary>
+        </member>
+        <member name="M:Cursos.Api.Controllers.Users.UserController.Login(Cursos.Domain.Users.Dtos.UserLoginDto)">
+            <summary>
+            Este serviço permite autenticar um usuário cadastros e ativo.
+            </summary>
+            <param name="dto"></param>
+            <returns>Retorna status ok, dados do usuario e o token em caso de sucesso</returns>
+        </member>
+        <member name="M:Cursos.Api.Controllers.Users.UserController.Insert(Cursos.Domain.Users.Dtos.UserInsertDto)">
+            <summary>
+            Este serviço permite cadatrar um usuário.
+            </summary>
+        </member>
+    </members>
+</doc>

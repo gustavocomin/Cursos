@@ -1,0 +1,17 @@
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\bin\Debug\net6.0\Cursos.Repository.deps.json
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\bin\Debug\net6.0\Cursos.Repository.runtimeconfig.json
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\bin\Debug\net6.0\Cursos.Repository.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\bin\Debug\net6.0\Cursos.Repository.pdb
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\bin\Debug\net6.0\Cursos.Domain.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\bin\Debug\net6.0\Cursos.Domain.pdb
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\obj\Debug\net6.0\Cursos.Repository.csproj.AssemblyReference.cache
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\obj\Debug\net6.0\Cursos.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\obj\Debug\net6.0\Cursos.Repository.AssemblyInfoInputs.cache
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\obj\Debug\net6.0\Cursos.Repository.AssemblyInfo.cs
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\obj\Debug\net6.0\Cursos.Repository.csproj.CoreCompileInputs.cache
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\obj\Debug\net6.0\Cursos.Repository.csproj.CopyComplete
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\obj\Debug\net6.0\Cursos.Repository.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\obj\Debug\net6.0\refint\Cursos.Repository.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\obj\Debug\net6.0\Cursos.Repository.pdb
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\obj\Debug\net6.0\Cursos.Repository.genruntimeconfig.cache
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Repository\obj\Debug\net6.0\ref\Cursos.Repository.dll

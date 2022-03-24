@@ -1,0 +1,12 @@
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Domain\bin\Debug\net6.0\Cursos.Domain.deps.json
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Domain\bin\Debug\net6.0\Cursos.Domain.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Domain\bin\Debug\net6.0\Cursos.Domain.pdb
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Domain\obj\Debug\net6.0\Cursos.Domain.csproj.AssemblyReference.cache
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Domain\obj\Debug\net6.0\Cursos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Domain\obj\Debug\net6.0\Cursos.Domain.AssemblyInfoInputs.cache
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Domain\obj\Debug\net6.0\Cursos.Domain.AssemblyInfo.cs
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Domain\obj\Debug\net6.0\Cursos.Domain.csproj.CoreCompileInputs.cache
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Domain\obj\Debug\net6.0\Cursos.Domain.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Domain\obj\Debug\net6.0\refint\Cursos.Domain.dll
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Domain\obj\Debug\net6.0\Cursos.Domain.pdb
+E:\PROGRAMACAO\Cursos\C#\Curso\Cursos.Domain\obj\Debug\net6.0\ref\Cursos.Domain.dll
